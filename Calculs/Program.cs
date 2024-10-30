@@ -17,6 +17,7 @@ namespace Calculs
             val = int.Parse(Console.ReadLine());
             return val;
         }
+
         static void Main(string[] args)
         {
             // variables
